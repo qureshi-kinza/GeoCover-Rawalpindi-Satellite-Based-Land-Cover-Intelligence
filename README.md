@@ -131,9 +131,9 @@ The repository includes:
 - Final classified land-cover map (PNG and PDF)
 - Confusion matrix (PNG and CSV)
 - Classification report
-- Class-wise accuracy assessment
+- Earth Engine Accuracy (CSV)
 - Feature importance analysis (PNG and CSV)
-- Overall model performance metrics
+- Overall accuracy metrics
 
 ## 📊 Model Evaluation
 
