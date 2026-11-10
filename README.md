@@ -155,7 +155,7 @@ geocover-rawalpindi/
 │
 ├── README.md
 ├── notebooks/
-│   └── rawalpindi-landcover-classification.ipynb
+│   └── GeoCover_Rawalpindi_Final.ipynb
 ├── maps/
 │   ├── Rawalpindi_Land_Cover_Map_2021.png
 │   └── Rawalpindi_Land_Cover_Map_2021.pdf
