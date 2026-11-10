@@ -1,0 +1,5 @@
+Metric,Value
+Overall Accuracy,0.8303571428571429
+Cohen's Kappa,0.7738633658652702
+Weighted F1-score,0.8289986049559922
+Macro F1-score,0.8287884729810137
