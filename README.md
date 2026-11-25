@@ -1,4 +1,6 @@
 # 🛰️ GeoCover-Rawalpindi-Satellite-Based-Land-Cover-Intelligence
+https://doi.org/10.5281/zenodo.24167673
+
 Sentinel-2 based land-use and land-cover classification of Rawalpindi District, Pakistan, using Random Forest, Google Earth Engine, Python, Scikit-learn, GeoPandas, Rasterio and spectral indices (NDVI, NDWI and NDBI).
 
 
